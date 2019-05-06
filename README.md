@@ -1,2 +1,1 @@
-# intro.txt
 hello world
